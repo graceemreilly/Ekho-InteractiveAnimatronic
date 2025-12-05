@@ -10,5 +10,8 @@ Advisors: Dr. Bahareh Abbasi, Dr. Vedang Chauhan
 1. Go to https://github.com/openai/openai-realtime-console 
  Follow steps for installation
 
-2. 
+2. Communication from the RaspberryPi and motors can be found in the config.js program
+3. Communication from the controller to the main program is in ekho_wrapper.py
+4. Communication to the realtime console that controls emotion presets can be found in server.js
+   
 
