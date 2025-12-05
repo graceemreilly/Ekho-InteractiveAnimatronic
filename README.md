@@ -11,7 +11,7 @@ Advisors: Dr. Bahareh Abbasi, Dr. Vedang Chauhan
  Follow steps for installation
 
 2. Communication from the RaspberryPi and motors can be found in the config.js program
-3. Communication from the controller to the main program is in ekho_wrapper.py
-4. Communication to the realtime console that controls emotion presets can be found in server.js
+3. Communication from the controller to the realtime console is in ekho_wrapper.py and ekho-bridge
+4. Communication to the realtime console that controls emotion presets fucntion calls can be found in server.js
    
 
